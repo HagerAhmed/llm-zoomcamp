@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 qdrant_storage/
+Fortinet_CA_SSL(15).cer
